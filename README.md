@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ![Kamrul Expo Login Page UI Design](/images/login.png)
 
-## After login dashboard:
+## dashboard Page Design:
 ![Kamrul Expo dashboard](/images/dashboard.png)
 
 For help getting started with Flutter, view our
