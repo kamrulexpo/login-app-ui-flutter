@@ -7,11 +7,11 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+## Login Page design:
 
-Login Page design:
 ![Kamrul Expo Login Page UI Design](/images/login.png)
 
-After login dashboard:
+## After login dashboard:
 ![Kamrul Expo dashboard](/images/dashboard.png)
 
 For help getting started with Flutter, view our
